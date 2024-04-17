@@ -1,0 +1,16 @@
+{
+  "name": "estagio",
+  "version": "1.0.0",
+  "main": "NodeAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.9.4",
+    "sequelize": "^6.37.3"
+  }
+}
